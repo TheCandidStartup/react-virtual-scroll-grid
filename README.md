@@ -1,3 +1,6 @@
+> [!NOTE]
+> My testing is done and I'm all in on Vite+React. This repo is now archived. Further development of the virtual scrolling grid component is in [infinisheet/packages/react-virtual-scroll](https://github.com/TheCandidStartup/infinisheet/tree/main/packages/react-virtual-scroll).
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
